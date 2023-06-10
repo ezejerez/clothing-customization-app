@@ -1,4 +1,4 @@
-import { swatch, fileIcon, ai, logoShirt, stylishShirt } from "../assets";
+import { swatch, fileIcon, logoShirt, stylishShirt } from "../assets";
 
 export type Tab = { name: string; icon: string };
 type DecalType = { [key: string]: { stateProperty: string; filterTab: string } };
